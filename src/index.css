@@ -188,7 +188,7 @@ li:hover .shop-down {
     width: 50px;
     height: 50px;
     background-color: #ff6700;
-    background-image: url(../img/mi-logo.png);
+    background-image: url(./img/mi-logo.png);
     background-position: center;
     left: 0;
     transition: left 0.3s;
@@ -196,7 +196,7 @@ li:hover .shop-down {
 }
 
 .header .logo .home {
-    background-image: url(../img/mi-home.png);
+    background-image: url(./img/mi-home.png);
     left: -50px;
 }
 
@@ -404,7 +404,7 @@ ul.left-menu li a:hover{
 
 /* 设置箭头 */
 .prev-next a{
-    background-image: url(../img/icon-slides.png); 
+    background-image: url(./img/icon-slides.png); 
     width: 42px;
     height: 66px;
     position: absolute;
